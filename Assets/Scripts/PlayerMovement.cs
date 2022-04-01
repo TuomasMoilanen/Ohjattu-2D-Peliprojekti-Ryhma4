@@ -2,11 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// hyödyllisiä organisointiin ja huomioihin: ? ? ? ? ? ?
+// copy-pastea varten.
+
 public class PlayerMovement : MonoBehaviour
 {
 
     // Floatit
-    
     public float jumpForce;
     public float speed;
     public float checkGroundRadius;
@@ -14,18 +16,21 @@ public class PlayerMovement : MonoBehaviour
     public float lowJumpMultiplier = 2f;
     public float rememberGroundedFor;
            float lastTimeGrounded;
-
+    // ?---?
 
 
     // Boolit
-
     bool isGrounded = false;
+    // ?---?
 
-    Rigidbody2D rb;
+    // sälät
     public Transform isGroundedChecker;
     public LayerMask groundLayer;
     public int defaultAdditionalJumps = 1;
-    int additionalJumps;
+    public int additionalJumps;
+    Rigidbody2D rb;
+    // ?---?
+
 
     void Start()
     {
