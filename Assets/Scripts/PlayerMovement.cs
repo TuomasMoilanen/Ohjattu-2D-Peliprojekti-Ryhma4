@@ -7,7 +7,6 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-
     // Floatit
     public float jumpForce;
     public float speed;
@@ -16,12 +15,10 @@ public class PlayerMovement : MonoBehaviour
     public float lowJumpMultiplier = 2f;
     public float rememberGroundedFor;
            float lastTimeGrounded;
-    // ?---?
-
 
     // Boolit
     bool isGrounded = false;
-    // ?---?
+   
 
     // sälät
     public Transform isGroundedChecker;
@@ -29,13 +26,13 @@ public class PlayerMovement : MonoBehaviour
     public int defaultAdditionalJumps = 1;
     public int additionalJumps;
     Rigidbody2D rb;
-    // ?---?
 
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
     }
+
     void Update()
     {
         Move();
@@ -88,7 +85,6 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity += Vector2.up * Physics2D.gravity * (lowJumpMultiplier - 1) * Time.deltaTime;
         }
     }
-
 }
 
 // Lähde https://craftgames.co/unity-2d-platformer-movement/
