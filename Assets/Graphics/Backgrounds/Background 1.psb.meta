@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 14eeb69f93950ac49a563978ff0b37f4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: ceiling lantern 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6508
+      width: 1477
+      height: 473
+    spriteID: 91039032964b42448ace9d6df8e23283
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -204, y: 5027}
+  - name: cailing lantern 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6989
+      width: 1458
+      height: 477
+    spriteID: 7e41b3569a03f7c449850de74b799756
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -213, y: 5508}
+  - name: cailing lantern 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7474
+      width: 1463
+      height: 459
+    spriteID: 3ef5f9ee70599d147aeb422e36b7399e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -202, y: 5993}
+  - name: lantern 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1741
+      height: 287
+    spriteID: bd70ebe750117c4418a7b0f3dff62298
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1814, y: -476}
+  - name: lantern 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 299
+      width: 1710
+      height: 288
+    spriteID: 5facbc6607afb7346b6e3a3e619dfc33
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1792, y: -181}
+  - name: lantern 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 595
+      width: 1712
+      height: 275
+    spriteID: 1e721e5570861304eb0719d5bccdd97a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1793, y: 115}
+  - name: foreground Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 2160
+    spriteID: 2509fe64207aa6e47ae6adea0957b5b0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: midground
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2172
+      width: 1920
+      height: 2160
+    spriteID: 230dfbdfc7efbe240bda1d531540f5bc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2172}
+  - name: Paper
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4340
+      width: 1920
+      height: 2160
+    spriteID: f72bd855e546b484d971e7e815fba978
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4340}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1920, y: 2160}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: ceiling lantern 3
+    spriteName: ceiling lantern 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 91039032964b42448ace9d6df8e23283
+    layerID: -1512962668
+    mosaicPosition: {x: 4, y: 6508}
+  - name: cailing lantern 2
+    spriteName: cailing lantern 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7e41b3569a03f7c449850de74b799756
+    layerID: 1941199487
+    mosaicPosition: {x: 4, y: 6989}
+  - name: cailing lantern 1
+    spriteName: cailing lantern 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3ef5f9ee70599d147aeb422e36b7399e
+    layerID: 1941199486
+    mosaicPosition: {x: 4, y: 7474}
+  - name: lantern 3
+    spriteName: lantern 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bd70ebe750117c4418a7b0f3dff62298
+    layerID: 1757046409
+    mosaicPosition: {x: 1932, y: 4}
+  - name: lantern 2
+    spriteName: lantern 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5facbc6607afb7346b6e3a3e619dfc33
+    layerID: 1757046408
+    mosaicPosition: {x: 1932, y: 299}
+  - name: lantern 1
+    spriteName: lantern 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1e721e5570861304eb0719d5bccdd97a
+    layerID: 1757046407
+    mosaicPosition: {x: 1932, y: 595}
+  - name: foreground Copy
+    spriteName: foreground Copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2509fe64207aa6e47ae6adea0957b5b0
+    layerID: -1638861252
+    mosaicPosition: {x: 4, y: 4}
+  - name: midground
+    spriteName: midground
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 230dfbdfc7efbe240bda1d531540f5bc
+    layerID: 2125358241
+    mosaicPosition: {x: 4, y: 2172}
+  - name: Paper
+    spriteName: Paper
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f72bd855e546b484d971e7e815fba978
+    layerID: -1779142660
+    mosaicPosition: {x: 4, y: 4340}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Background 1 Texture
+  prefabAssetName: Background 1 Prefab
+  spriteLibAssetName: Background 1 Sprite Lib
+  secondarySpriteTextures: []
