@@ -79,10 +79,10 @@ public class HeartSystem : MonoBehaviour
         startHearts++;
         startHearts = Mathf.Clamp(startHearts, 0, maxHeartAmount);
 
-         /* Optional
+        /* Optional
         curHealth = startHeart * healthPerHeart;
         maxHealth = maxHeartAmount * healthPerHeart;
-         */
+        */
 
         checkHealthAmount();
     }
