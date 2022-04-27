@@ -9,7 +9,7 @@ public class HeartSystem : MonoBehaviour
     public int startHearts = 0;
     public int curHealth;
     private int maxHealth;
-    [SerializeField] private int healthPerHeart = 3;
+    [SerializeField] private int healthPerHeart = 2;
 
     public Image[] healthImages;
     public Sprite[] healthSprites;
