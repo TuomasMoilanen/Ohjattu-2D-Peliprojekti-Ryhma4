@@ -105,14 +105,14 @@ ScriptedImporter:
     spriteID: c6bd8946ce1de9d45b2e4f05bdaed1e9
     spriteBone:
     - name: head
-      guid: 7ae5980d937e7db42821f497fdd45173
+      guid: 
       position: {x: 239.91003, y: 289.24072, z: 0}
       rotation: {x: 0, y: 0, z: 0.6372579, w: 0.7706506}
       length: 335.66937
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294967040
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 212.742, y: 3.2019958}
@@ -1092,14 +1092,14 @@ ScriptedImporter:
     spriteID: ffb9fe2b91730e84e89c976c699bcd1b
     spriteBone:
     - name: head
-      guid: 7ae5980d937e7db42821f497fdd45173
+      guid: 
       position: {x: 239.91003, y: 289.24072, z: 0}
       rotation: {x: 0, y: 0, z: 0.6372579, w: 0.7706506}
       length: 335.66937
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294967040
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 208.774, y: 1.7739868}
@@ -2063,50 +2063,50 @@ ScriptedImporter:
     spriteID: 64249b6d9d60bec49be068cd8eafc7e0
     spriteBone:
     - name: Hand
-      guid: 203d7197b8751ca43ad5d7b26b33a9c6
+      guid: 
       position: {x: 193.36269, y: -0.0001890638, z: 0}
       rotation: {x: 0, y: 0, z: 0.03532159, w: -0.99937606}
       length: 143.35863
       parentId: 1
       color:
         serializedVersion: 2
-        rgba: 4278223103
+        rgba: 0
     - name: Forearm
-      guid: a26b73e3ccc029c45ba4d1e0e2cad6f5
+      guid: 
       position: {x: 382.72998, y: 0.0002341998, z: 0}
       rotation: {x: 0, y: 0, z: 0.29105917, w: 0.9567051}
       length: 193.36276
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4294902015
+        rgba: 0
     - name: Shoulder
-      guid: 65e3d08f5bfb98f44af5796dee851f87
+      guid: 
       position: {x: 249.09076, y: 692.75684, z: 0}
       rotation: {x: 0, y: 0, z: 0.84765846, w: -0.53054243}
       length: 382.73053
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294901760
+        rgba: 0
     - name: Hand B
-      guid: 29ccd0cc2fba21f44b1688d05e0ae45f
+      guid: 
       position: {x: 781.2124, y: 169.12085, z: 0}
       rotation: {x: 0, y: 0, z: -0.74929, w: 0.6622422}
       length: 128.24448
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294934528
+        rgba: 0
     - name: stomach
-      guid: 88ba4e2c74c2fbd4da77a187f2ae3087
+      guid: 
       position: {x: 423.63617, y: 226.09009, z: 0}
       rotation: {x: 0, y: 0, z: 0.68553704, w: 0.7280378}
       length: 262.2913
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278255615
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 180.372, y: 1.5559998}
@@ -3257,50 +3257,50 @@ ScriptedImporter:
     spriteID: 1e43206458e84bb4f8a11314aadaeb3a
     spriteBone:
     - name: Sole
-      guid: e332a9a81c5643840a3014f37dbaa55e
+      guid: 
       position: {x: 223.06033, y: 0.00011164314, z: 0}
       rotation: {x: 0, y: 0, z: -0.7039714, w: -0.71022844}
       length: 192.7881
       parentId: 1
       color:
         serializedVersion: 2
-        rgba: 4278255615
+        rgba: 0
     - name: Boot
-      guid: b5b342a61c1055f44b685ccbc8ccfe09
+      guid: 
       position: {x: 201.30351, y: 0.00004052923, z: 0}
       rotation: {x: 0, y: 0, z: -0.023204884, w: 0.9997307}
       length: 223.06017
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4286578943
+        rgba: 0
     - name: Thigh
-      guid: b9bc850145392b544a4639cb5f82592b
+      guid: 
       position: {x: 94.99997, y: 468.96948, z: 0}
       rotation: {x: 0, y: 0, z: 0.69638115, w: -0.7176722}
       length: 201.30328
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294901888
+        rgba: 0
     - name: Boot B
-      guid: 8bea8d16976f9194283f9eabee449884
+      guid: 
       position: {x: 349.5454, y: 275.03003, z: 0}
       rotation: {x: 0, y: 0, z: 0.71495694, w: -0.6991685}
       length: 217.02402
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294967040
+        rgba: 0
     - name: Sole B
-      guid: 149671b79b08d254d96cffdb3ba09bb8
+      guid: 
       position: {x: 217.02397, y: -0.000060111797, z: 0}
       rotation: {x: 0, y: 0, z: -0.7149575, w: -0.699168}
       length: 184.23943
       parentId: 3
       color:
         serializedVersion: 2
-        rgba: 4294901760
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 212.512, y: 0.06599426}
@@ -4558,68 +4558,68 @@ ScriptedImporter:
     spriteID: b0e2a4d8996c6a34297ce87e13095771
     spriteBone:
     - name: hip
-      guid: 827fde827ab9aba4d8ed03ee0e1a985e
+      guid: 
       position: {x: 334.66666, y: 32.63626, z: 0}
       rotation: {x: 0, y: 0, z: 0.73703265, w: 0.6758571}
       length: 266.45105
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278190335
+        rgba: 0
     - name: chest
-      guid: 98f619b0c60436540be37e397c26c58c
+      guid: 
       position: {x: 262.29123, y: -0.00015378479, z: 0}
       rotation: {x: 0, y: 0, z: -0.059835702, w: 0.9982083}
       length: 176.17493
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4278255360
+        rgba: 0
     - name: stomach
-      guid: 88ba4e2c74c2fbd4da77a187f2ae3087
+      guid: 
       position: {x: 266.45105, y: 0.000008136347, z: 0}
       rotation: {x: 0, y: 0, z: -0.07326252, w: 0.9973127}
       length: 262.2913
       parentId: 0
       color:
         serializedVersion: 2
-        rgba: 4278255615
+        rgba: 0
     - name: Shoulder
-      guid: 65e3d08f5bfb98f44af5796dee851f87
+      guid: 
       position: {x: 167.50162, y: 223.879, z: 0}
       rotation: {x: 0, y: 0, z: 0.9907352, w: 0.13580833}
       length: 382.73053
       parentId: 1
       color:
         serializedVersion: 2
-        rgba: 4294901760
+        rgba: 0
     - name: Hand
-      guid: 203d7197b8751ca43ad5d7b26b33a9c6
+      guid: 
       position: {x: 193.36276, y: 0.00002669891, z: 0}
       rotation: {x: 0, y: 0, z: 0.035321545, w: -0.999376}
       length: 143.35866
       parentId: 5
       color:
         serializedVersion: 2
-        rgba: 4278223103
+        rgba: 0
     - name: Forearm
-      guid: a26b73e3ccc029c45ba4d1e0e2cad6f5
+      guid: 
       position: {x: 382.7305, y: 0.000025032308, z: 0}
       rotation: {x: 0, y: 0, z: 0.29105917, w: 0.95670503}
       length: 193.3628
       parentId: 3
       color:
         serializedVersion: 2
-        rgba: 4294902015
+        rgba: 0
     - name: Backpack
-      guid: 93d43e6d83649514e919d232763a7ee4
+      guid: 
       position: {x: -181.16154, y: 40.980656, z: 0}
       rotation: {x: 0, y: 0, z: 0.03583009, w: 0.99935794}
       length: 594.9934
       parentId: 1
       color:
         serializedVersion: 2
-        rgba: 4278190335
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 352.734, y: 0.9000244}
@@ -6116,59 +6116,59 @@ ScriptedImporter:
     spriteID: bf97f471c5a650f4688d746e7b4fd10f
     spriteBone:
     - name: Sole B
-      guid: 149671b79b08d254d96cffdb3ba09bb8
+      guid: 
       position: {x: 217.0239, y: -0.000033072523, z: 0}
       rotation: {x: 0, y: 0, z: -0.7149575, w: -0.699168}
       length: 184.23943
       parentId: 1
       color:
         serializedVersion: 2
-        rgba: 4294901760
+        rgba: 0
     - name: Boot B
-      guid: 8bea8d16976f9194283f9eabee449884
+      guid: 
       position: {x: 206.11795, y: -0.00019135587, z: 0}
       rotation: {x: 0, y: 0, z: 0.0005980611, w: 0.9999998}
       length: 217.02402
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4294967040
+        rgba: 0
     - name: Thigh B
-      guid: 16d9dd07dfe62ac43bd412b8da43dfc1
+      guid: 
       position: {x: 120.39392, y: 481.09082, z: 0}
       rotation: {x: 0, y: 0, z: 0.71537495, w: -0.6987408}
       length: 206.11789
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278255360
+        rgba: 0
     - name: Forearm
-      guid: a26b73e3ccc029c45ba4d1e0e2cad6f5
+      guid: 
       position: {x: -357.18143, y: 763.5145, z: 0}
       rotation: {x: 0, y: 0, z: 0.65653986, w: -0.7542913}
       length: 193.36284
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294902015
+        rgba: 0
     - name: Sole
-      guid: e332a9a81c5643840a3014f37dbaa55e
+      guid: 
       position: {x: -136.57565, y: 44.72693, z: 0}
       rotation: {x: 0, y: 0, z: -0.01257545, w: 0.9999209}
       length: 192.78818
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278255615
+        rgba: 0
     - name: Hand B
-      guid: 29ccd0cc2fba21f44b1688d05e0ae45f
+      guid: 
       position: {x: 342.2124, y: 584.12085, z: 0}
       rotation: {x: 0, y: 0, z: -0.74929, w: 0.6622422}
       length: 128.24448
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294934528
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 211.658, y: 0.06399536}
@@ -7276,41 +7276,41 @@ ScriptedImporter:
     spriteID: 342c2925f32a4a24a93978f2de3e668c
     spriteBone:
     - name: Forearm B
-      guid: 6baec1f34952c3149bc2cc8fe7945fd8
+      guid: 
       position: {x: 292.12888, y: 0.00017906049, z: 0}
       rotation: {x: 0, y: 0, z: -0.104535215, w: 0.99452126}
       length: 168.01329
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4286643968
+        rgba: 0
     - name: Hand B
-      guid: 29ccd0cc2fba21f44b1688d05e0ae45f
+      guid: 
       position: {x: 168.01321, y: 0.00009294505, z: 0}
       rotation: {x: 0, y: 0, z: -0.108341485, w: 0.99411374}
       length: 128.24449
       parentId: 0
       color:
         serializedVersion: 2
-        rgba: 4294934528
+        rgba: 0
     - name: shoulder B
-      guid: 74bf273e3c3a47a4fa9e95f0fc406799
+      guid: 
       position: {x: 124.18164, y: 616.1814, z: 0}
       rotation: {x: 0, y: 0, z: -0.5921369, w: 0.80583733}
       length: 292.12875
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278255488
+        rgba: 0
     - name: Forearm
-      guid: a26b73e3ccc029c45ba4d1e0e2cad6f5
+      guid: 
       position: {x: -472.1814, y: 349.51453, z: 0}
       rotation: {x: 0, y: 0, z: 0.65653986, w: -0.7542913}
       length: 193.36284
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294902015
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 288.258, y: 24.640015}
@@ -8369,41 +8369,41 @@ ScriptedImporter:
     spriteID: 9399449338be96947ae1b89b77c85e6c
     spriteBone:
     - name: Backpack
-      guid: 93d43e6d83649514e919d232763a7ee4
+      guid: 
       position: {x: 364.6668, y: 34.999268, z: 0}
       rotation: {x: 0, y: 0, z: 0.66784334, w: 0.744302}
       length: 594.9933
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278190335
+        rgba: 0
     - name: Shoulder
-      guid: 65e3d08f5bfb98f44af5796dee851f87
+      guid: 
       position: {x: 247.09076, y: 410.7567, z: 0}
       rotation: {x: 0, y: 0, z: 0.84765846, w: -0.53054243}
       length: 382.73053
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294901760
+        rgba: 0
     - name: Hand
-      guid: 203d7197b8751ca43ad5d7b26b33a9c6
+      guid: 
       position: {x: 106.48541, y: -125.00061, z: 0}
       rotation: {x: 0, y: 0, z: -0.682773, w: 0.7306307}
       length: 143.35864
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278223103
+        rgba: 0
     - name: Hand B
-      guid: 29ccd0cc2fba21f44b1688d05e0ae45f
+      guid: 
       position: {x: 779.2124, y: -112.87915, z: 0}
       rotation: {x: 0, y: 0, z: -0.74929, w: 0.6622422}
       length: 128.24448
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294934528
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 353.056, y: 0.12799072}
@@ -9288,14 +9288,14 @@ ScriptedImporter:
     spriteID: 3f6cd3b8932ab294f89ba1ba0db5df64
     spriteBone:
     - name: Pickaxe
-      guid: e8e61be6bff8f15409481fbfd0e52197
+      guid: 
       position: {x: 281.06097, y: 152.63599, z: 0}
       rotation: {x: 0, y: 0, z: 0.029835112, w: 0.9995548}
       length: 386.142
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4294902015
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 587.58203, y: 2.4060059}
@@ -10287,167 +10287,167 @@ ScriptedImporter:
   characterData:
     bones:
     - name: hip
-      guid: 827fde827ab9aba4d8ed03ee0e1a985e
+      guid: 
       position: {x: 446.66666, y: 375.63626, z: 0}
       rotation: {x: 0, y: 0, z: 0.73703265, w: 0.6758571}
       length: 266.45108
       parentId: -1
       color:
         serializedVersion: 2
-        rgba: 4278190335
+        rgba: 0
     - name: stomach
-      guid: 88ba4e2c74c2fbd4da77a187f2ae3087
+      guid: 
       position: {x: 266.45108, y: -0.000017762388, z: 0}
       rotation: {x: 0, y: 0, z: -0.073262535, w: 0.9973127}
       length: 262.2913
       parentId: 0
       color:
         serializedVersion: 2
-        rgba: 4278255615
+        rgba: 0
     - name: chest
-      guid: 98f619b0c60436540be37e397c26c58c
+      guid: 
       position: {x: 262.2913, y: -0.00011884313, z: 0}
       rotation: {x: 0, y: 0, z: -0.059835628, w: 0.9982083}
       length: 176.17491
       parentId: 1
       color:
         serializedVersion: 2
-        rgba: 4278255360
+        rgba: 0
     - name: head
-      guid: 7ae5980d937e7db42821f497fdd45173
+      guid: 
       position: {x: 176.17493, y: -0.00006764419, z: 0}
       rotation: {x: 0, y: 0, z: -0.004534895, w: 0.99998975}
       length: 335.66937
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4294967040
+        rgba: 0
     - name: Shoulder
-      guid: 65e3d08f5bfb98f44af5796dee851f87
+      guid: 
       position: {x: 167.50156, y: 223.87897, z: 0}
       rotation: {x: 0, y: -0, z: 0.9907351, w: 0.13580838}
       length: 382.73062
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4294901760
+        rgba: 0
     - name: Forearm
-      guid: a26b73e3ccc029c45ba4d1e0e2cad6f5
+      guid: 
       position: {x: 382.7306, y: 0.00004607442, z: 0}
       rotation: {x: 0, y: 0, z: 0.29105914, w: 0.9567051}
       length: 193.36282
       parentId: 4
       color:
         serializedVersion: 2
-        rgba: 4294902015
+        rgba: 0
     - name: Hand
-      guid: 203d7197b8751ca43ad5d7b26b33a9c6
+      guid: 
       position: {x: 193.36281, y: 0.00001645313, z: 0}
       rotation: {x: 0, y: 0, z: 0.03532154, w: -0.999376}
       length: 143.35867
       parentId: 5
       color:
         serializedVersion: 2
-        rgba: 4278223103
+        rgba: 0
     - name: shoulder B
-      guid: 74bf273e3c3a47a4fa9e95f0fc406799
+      guid: 
       position: {x: 167.93718, y: -212.16783, z: 0}
       rotation: {x: 0, y: -0, z: -0.970952, w: 0.23927452}
       length: 292.12872
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4278255488
+        rgba: 0
     - name: Forearm B
-      guid: 6baec1f34952c3149bc2cc8fe7945fd8
+      guid: 
       position: {x: 292.1288, y: 0.000011176788, z: 0}
       rotation: {x: 0, y: 0, z: -0.10453526, w: 0.9945212}
       length: 168.0133
       parentId: 7
       color:
         serializedVersion: 2
-        rgba: 4286643968
+        rgba: 0
     - name: Hand B
-      guid: 29ccd0cc2fba21f44b1688d05e0ae45f
+      guid: 
       position: {x: 168.01326, y: 0.00006595839, z: 0}
       rotation: {x: 0, y: 0, z: -0.10834148, w: 0.9941138}
       length: 128.2445
       parentId: 8
       color:
         serializedVersion: 2
-        rgba: 4294934528
+        rgba: 0
     - name: Thigh
-      guid: b9bc850145392b544a4639cb5f82592b
+      guid: 
       position: {x: 105.661, y: 138.0506, z: 0}
       rotation: {x: 0, y: -0, z: 0.999602, w: 0.02821174}
       length: 201.30327
       parentId: 0
       color:
         serializedVersion: 2
-        rgba: 4294901888
+        rgba: 0
     - name: Boot
-      guid: b5b342a61c1055f44b685ccbc8ccfe09
+      guid: 
       position: {x: 201.30328, y: 0.00002878581, z: 0}
       rotation: {x: 0, y: 0, z: -0.023204925, w: 0.99973077}
       length: 223.06013
       parentId: 10
       color:
         serializedVersion: 2
-        rgba: 4286578943
+        rgba: 0
     - name: Sole
-      guid: e332a9a81c5643840a3014f37dbaa55e
+      guid: 
       position: {x: 223.06012, y: 0.00009191461, z: 0}
       rotation: {x: 0, y: 0, z: -0.7039714, w: -0.7102284}
       length: 192.78812
       parentId: 11
       color:
         serializedVersion: 2
-        rgba: 4278255615
+        rgba: 0
     - name: Thigh B
-      guid: 16d9dd07dfe62ac43bd412b8da43dfc1
+      guid: 
       position: {x: 95.31634, y: -121.42027, z: 0}
       rotation: {x: 0, y: -0, z: 0.99848604, w: 0.055005744}
       length: 206.11787
       parentId: 0
       color:
         serializedVersion: 2
-        rgba: 4278255360
+        rgba: 0
     - name: Boot B
-      guid: 8bea8d16976f9194283f9eabee449884
+      guid: 
       position: {x: 206.11787, y: -0.000091678456, z: 0}
       rotation: {x: 0, y: 0, z: 0.0005980199, w: 0.9999998}
       length: 217.02402
       parentId: 13
       color:
         serializedVersion: 2
-        rgba: 4294967040
+        rgba: 0
     - name: Sole B
-      guid: 149671b79b08d254d96cffdb3ba09bb8
+      guid: 
       position: {x: 217.02405, y: -0.00006323011, z: 0}
       rotation: {x: 0, y: 0, z: -0.7149575, w: -0.699168}
       length: 184.23944
       parentId: 14
       color:
         serializedVersion: 2
-        rgba: 4294901760
+        rgba: 0
     - name: Pickaxe
-      guid: e8e61be6bff8f15409481fbfd0e52197
+      guid: 
       position: {x: 101.96313, y: -103.406654, z: 0}
       rotation: {x: 0, y: 0, z: 0.7687145, w: 0.6395922}
       length: 386.14194
       parentId: 9
       color:
         serializedVersion: 2
-        rgba: 4294902015
+        rgba: 0
     - name: Backpack
-      guid: 93d43e6d83649514e919d232763a7ee4
+      guid: 
       position: {x: -181.16162, y: 40.980656, z: 0}
       rotation: {x: 0, y: 0, z: 0.03583001, w: 0.99935794}
       length: 594.99347
       parentId: 2
       color:
         serializedVersion: 2
-        rgba: 4278190335
+        rgba: 0
     parts:
     - spritePosition:
         x: 231
@@ -10679,8 +10679,8 @@ ScriptedImporter:
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
   generateGOHierarchy: 0
-  textureAssetName: 
-  prefabAssetName: 
-  spriteLibAssetName: 
+  textureAssetName: minedude_2 Texture
+  prefabAssetName: minedude_2 Prefab
+  spriteLibAssetName: minedude_2 Sprite Lib
   skeletonAssetName: 
   secondarySpriteTextures: []
