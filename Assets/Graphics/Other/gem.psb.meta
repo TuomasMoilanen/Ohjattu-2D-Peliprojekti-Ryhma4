@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8a5b662a18f643942a776c54223e23cc
+guid: 5ba5307d4bb0a0f48a950dea3e9355ae
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -91,70 +91,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
-  - name: Jaw
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 1025
-      y: 4
-      width: 789
-      height: 335
-    spriteID: faec2ba0283b01049b00a486bf33fe5c
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 786, y: -775}
-  - name: Fist
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 1136
-      width: 559
-      height: 574
-    spriteID: 10135ce20910aa34da8f8245691624bd
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -500, y: 688}
-  - name: L.leg
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 571
-      y: 1136
-      width: 346
-      height: 399
-    spriteID: d612a134de0d0634b89b0252c2dae32a
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 7, y: 1095}
-  - name: Body
+  - name: gem_pickup
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -163,9 +100,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 1013
-      height: 1124
-    spriteID: f4c0e83abe06c40429f430d5ffc9a605
+      width: 634
+      height: 635
+    spriteID: 9091dfea851a1eb47a29e180a7fc8f61
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -174,28 +111,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -47, y: -215}
-  - name: R.leg
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 1025
-      y: 347
-      width: 447
-      height: 418
-    spriteID: eaac8ce0711c5f94ca6b2e4fe0aba67c
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 983, y: 282}
+    uvTransform: {x: -18, y: -20}
   characterData:
     bones: []
     parts: []
@@ -226,63 +142,13 @@ ScriptedImporter:
   resliceFromLayer: 0
   mosaicPSDLayers: []
   rigPSDLayers:
-  - name: "Ryhm\xE4 1"
-    spriteName: 
-    isGroup: 1
+  - name: gem_pickup
+    spriteName: gem_pickup
+    isGroup: 0
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
-    layerID: 10
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 1
-  - name: Jaw
-    spriteName: Jaw
-    isGroup: 0
-    parentIndex: 0
-    spriteID: faec2ba0283b01049b00a486bf33fe5c
-    layerID: 17
-    mosaicPosition: {x: 1025, y: 4}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: Fist
-    spriteName: Fist
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 10135ce20910aa34da8f8245691624bd
-    layerID: 16
-    mosaicPosition: {x: 4, y: 1136}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: L.leg
-    spriteName: L.leg
-    isGroup: 0
-    parentIndex: 0
-    spriteID: d612a134de0d0634b89b0252c2dae32a
-    layerID: 15
-    mosaicPosition: {x: 571, y: 1136}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: Body
-    spriteName: Body
-    isGroup: 0
-    parentIndex: 0
-    spriteID: f4c0e83abe06c40429f430d5ffc9a605
-    layerID: 14
+    spriteID: 9091dfea851a1eb47a29e180a7fc8f61
+    layerID: 22
     mosaicPosition: {x: 4, y: 4}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: R.leg
-    spriteName: R.leg
-    isGroup: 0
-    parentIndex: 0
-    spriteID: eaac8ce0711c5f94ca6b2e4fe0aba67c
-    layerID: 12
-    mosaicPosition: {x: 1025, y: 347}
     flatten: 0
     isImported: 1
     isVisible: 1
