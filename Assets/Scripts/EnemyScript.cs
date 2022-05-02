@@ -41,8 +41,6 @@ public class EnemyScript : MonoBehaviour
 
         if (currentHealth <= 0)
         {
-            Debug.Log("Dead");
-            animator.SetTrigger("Death");
             Death();
         }
     }
@@ -52,7 +50,7 @@ public class EnemyScript : MonoBehaviour
         Debug.Log("Dead");
         Destroy(GetComponent<Rigidbody2D>());
         Destroy(GetComponent<BoxCollider2D>());
-        animator.SetTrigger("Death");
+        // animator.SetTrigger("Death");
         Destroy(thisEnemy, 2);
     }
 
